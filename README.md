@@ -8,7 +8,7 @@ This is a web based application developed for Lifestyle related Game based websi
 *Project Link* - https://calm-pond-0cd97f900.2.azurestaticapps.net
 
 
-*Project Demo video link  - 
+*Project Demo video link  -  https://youtu.be/jkbpgH1gaRo
 
 
 ## Features and Functionalities 😃
